@@ -18,4 +18,5 @@ To calculate a more realistic product rating and identify the most trustworthy r
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
+This project demonstrates product analytics and measurement problem solving in e-commerce.
 
