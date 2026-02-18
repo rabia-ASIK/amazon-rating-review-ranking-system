@@ -85,6 +85,9 @@ Ranking favors reviews with both high helpfulness and enough votes.
 
 WLB range in Top 20: 0.566 – 0.958
 
+This project focuses not only on implementation but also on interpreting analytical results from a product perspective.
+
+
 ## Author
 
 Rabia Aşık
